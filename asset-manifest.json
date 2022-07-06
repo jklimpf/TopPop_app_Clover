@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TopPop_app_Clover/static/css/main.f9cea2ba.css",
+    "main.js": "/TopPop_app_Clover/static/js/main.8e70e18d.js",
+    "index.html": "/TopPop_app_Clover/index.html",
+    "main.f9cea2ba.css.map": "/TopPop_app_Clover/static/css/main.f9cea2ba.css.map",
+    "main.8e70e18d.js.map": "/TopPop_app_Clover/static/js/main.8e70e18d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9cea2ba.css",
+    "static/js/main.8e70e18d.js"
+  ]
+}

@@ -1,0 +1,22 @@
+.songList {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.song {
+  font-size: 1.8rem;
+  font-weight: 700;
+  padding: 0.5rem;
+  border-radius: 13px;
+  width: 100%;
+  transition: background 0.2s ease-in-out;
+}
+
+.song:hover {
+  cursor: pointer;
+  background-color: #3f3f3f;
+  color: rgb(238, 237, 242);
+}

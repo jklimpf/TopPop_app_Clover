@@ -1,0 +1,56 @@
+.songs {
+  max-width: 60rem;
+  width: 80%;
+  margin: 5rem auto;
+  animation: songs-appear 1s ease-out forwards;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 14px;
+  background-color: rgb(238, 237, 242);
+}
+
+ul {
+  list-style: none;
+}
+
+@keyframes songs-appear {
+  from {
+    opacity: 0;
+    transform: translateY(3rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.sort {
+  padding: 10px;
+  background: #3f3f3f;
+  border: none;
+  width: 25%;
+  color: rgb(238, 237, 242);
+  border-radius: 14px;
+}
+
+.sortDiv {
+  border-radius: 14px;
+  margin: 1rem;
+  margin-bottom: 4rem;
+  gap: 1rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.title {
+  font-size: 4rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.description {
+  text-align: center;
+  margin-bottom: 4rem;
+  font-size: 1.2rem;
+}

@@ -46,6 +46,7 @@ const DeezerList = function (props) {
           <option value="shorter">Shorter duration</option>
         </select>
       </div>
+      <div className={classes.spinnerDiv}>{props.children}</div>
       <ul>
         {sortedSongs.map((el) => {
           return (

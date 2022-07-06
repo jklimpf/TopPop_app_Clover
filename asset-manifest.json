@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TopPop_app_Clover/static/css/main.926e4f36.css",
-    "main.js": "/TopPop_app_Clover/static/js/main.d71d69dd.js",
+    "main.css": "/TopPop_app_Clover/static/css/main.20471114.css",
+    "main.js": "/TopPop_app_Clover/static/js/main.ea2fb8b7.js",
     "index.html": "/TopPop_app_Clover/index.html",
-    "main.926e4f36.css.map": "/TopPop_app_Clover/static/css/main.926e4f36.css.map",
-    "main.d71d69dd.js.map": "/TopPop_app_Clover/static/js/main.d71d69dd.js.map"
+    "main.20471114.css.map": "/TopPop_app_Clover/static/css/main.20471114.css.map",
+    "main.ea2fb8b7.js.map": "/TopPop_app_Clover/static/js/main.ea2fb8b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.926e4f36.css",
-    "static/js/main.d71d69dd.js"
+    "static/css/main.20471114.css",
+    "static/js/main.ea2fb8b7.js"
   ]
 }

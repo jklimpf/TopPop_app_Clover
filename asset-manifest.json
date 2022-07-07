@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TopPop_app_Clover/static/css/main.20471114.css",
-    "main.js": "/TopPop_app_Clover/static/js/main.ea2fb8b7.js",
+    "main.js": "/TopPop_app_Clover/static/js/main.31969ed5.js",
     "index.html": "/TopPop_app_Clover/index.html",
     "main.20471114.css.map": "/TopPop_app_Clover/static/css/main.20471114.css.map",
-    "main.ea2fb8b7.js.map": "/TopPop_app_Clover/static/js/main.ea2fb8b7.js.map"
+    "main.31969ed5.js.map": "/TopPop_app_Clover/static/js/main.31969ed5.js.map"
   },
   "entrypoints": [
     "static/css/main.20471114.css",
-    "static/js/main.ea2fb8b7.js"
+    "static/js/main.31969ed5.js"
   ]
 }

@@ -25,6 +25,7 @@ const Deezer = function () {
     fetchData().catch((err) => {
       console.log(err.message);
       setDeezerData(deezerDataTemp);
+      setIsLoading(false);
     });
   }, []);
 
